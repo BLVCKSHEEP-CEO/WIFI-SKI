@@ -1,0 +1,6 @@
+ITEM,DESCRIPITION,LINK,QUANTITY,UNIT COST (?), TOTAL COST (?)
+L298N MOTOR DRIVER MODULE,MOTOR DRIVER,https://okuelectronics.com/store/motors-pumps/l298-motor-driver-breakout/,1,35,35
+TOGGLE SWITCH,SWITCH,https://okuelectronics.com/store/prototyping/3pin-5a-metal-toggle-spdt-switch/,1,8,8
+ESP32 (38 PIN),MCU,https://okuelectronics.com/store/iot-board-wireless-modules/esp32-development-board-wifibluetooth-dual-core-38pin/,1,135,135
+BOOST CONVERTER (XL6009E1),POWER SOURCE,https://okuelectronics.com/store/sensors-modules-shields/xl6009-step-up-boost-module/,1,22,22
+,,TOTAL,4,200,200
